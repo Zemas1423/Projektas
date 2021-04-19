@@ -1,0 +1,15 @@
+* {
+    width: 100%;
+    height: 100%;
+}
+  
+.flipbookkk{
+   margin-top: 15vh !important;
+   margin-bottom: 5vh !important;
+}
+  
+@media(min-width: 768px){
+ .flipbookkk-title{
+    font-size: 2.5vw !important;
+ }
+}
